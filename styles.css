@@ -1,0 +1,23 @@
+html, body {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
+
+#gamefield {
+  background-color: green;
+  position: relative;
+}
+
+.snake {
+  background-color: black;
+}
+
+.apple {
+  background-color: red;
+  border-radius: 50%;
+}
+
+.wall {
+  background-color: brown;
+}
